@@ -1,0 +1,406 @@
+district,reading
+Barnsley,95
+Bath and North East Somerset,100
+Bedford,56
+Birmingham,21
+Blackburn with Darwen,82
+Blackpool,5
+Bolton,81
+Bournemouth,8
+Bracknell Forest,49
+Bradford,85
+Brighton and Hove,47
+Bristol,75
+Aylesbury Vale,98
+Chiltern,21
+South Bucks,46
+Wycombe,85
+Bury,33
+Calderdale,25
+Cambridge,39
+East Cambridgeshire,15
+Fenland,87
+Huntingdonshire,97
+King's Lynn and West Norfolk,6
+South Cambridgeshire,11
+Central Bedfordshire,48
+Cheshire East,2
+Cheshire West and Chester,25
+Cornwall,18
+Coventry,83
+Allerdale,77
+Barrow-in-Furness,23
+Carlisle,26
+Copeland,19
+Eden,22
+South Lakeland,11
+Darlington,37
+Derby,32
+Amber Valley,89
+Bolsover,55
+Chesterfield,48
+Derbyshire Dales,2
+Erewash,27
+High Peak,48
+North East Derbyshire,83
+South Derbyshire,50
+East Devon,94
+Exeter,29
+Mid Devon,65
+North Devon,37
+South Hams,83
+Teignbridge,67
+Torridge,8
+West Devon,32
+Doncaster,63
+Christchurch,54
+East Dorset,71
+North Dorset,42
+Purbeck,19
+West Dorset,88
+Weymouth and Portland,30
+Dudley,32
+Durham,92
+East Riding of Yorkshire,81
+Eastbourne,98
+Hastings,62
+Lewes,83
+Rother,60
+Wealden,23
+Basildon,56
+Braintree,37
+Brentwood,18
+Castle Point,67
+Chelmsford,88
+Colchester,16
+Epping Forest,12
+Harlow,23
+Maldon,30
+Rochford,2
+Tendring,88
+Uttlesford,68
+Gateshead,27
+Cheltenham,38
+Cotswold,29
+Forest of Dean,33
+Gloucester,8
+Stroud,47
+Tewkesbury,2
+Barking and Dagenham,12
+Barnet,20
+Bexley,99
+Brent,14
+Bromley,4
+Camden,31
+Croydon,49
+Ealing,35
+Enfield,20
+Greenwich,92
+Hackney,38
+Hammersmith and Fulham,87
+Haringey,34
+Harrow,60
+Havering,13
+Hillingdon,23
+Hounslow,14
+Islington,84
+Kensington and Chelsea,49
+Kingston upon Thames,68
+Lambeth,77
+Lewisham,90
+London,7
+Merton,76
+Newham,96
+Redbridge,92
+Richmond upon Thames,11
+Southwark,30
+Sutton,15
+Tower Hamlets,30
+Waltham Forest,85
+Wandsworth,52
+Westminster,51
+Halton,90
+Basingstoke and Deane,96
+East Hampshire,55
+Eastleigh,76
+Fareham,82
+Gosport,61
+Hart,47
+Havant,63
+New Forest,67
+Rushmoor,7
+Test Valley,48
+Winchester,92
+Hartlepool,94
+Herefordshire,56
+Broxbourne,99
+Dacorum,53
+East Hertfordshire,30
+Hertsmere,94
+North Hertfordshire,56
+Saint Albans,32
+Stevenage,57
+Three Rivers,73
+Watford,77
+Welwyn Hatfield,84
+Isle of Wight,1
+Isles of Scilly,40
+Ashford,67
+Canterbury,94
+Dartford,53
+Dover,45
+Gravesham,14
+Maidstone,29
+Sevenoaks,31
+Shepway,53
+Swale,21
+Thanet,25
+Tonbridge and Malling,58
+Tunbridge Wells,82
+Kingston upon Hull,4
+Kirklees,27
+Knowsley,89
+Burnley,62
+Chorley,13
+Fylde,93
+Hyndburn,80
+Lancaster,50
+Pendle,96
+Preston,65
+Ribble Valley,2
+Rossendale,63
+South Ribble,87
+West Lancashire,74
+Wyre,73
+Leeds,64
+Leicester,10
+Blaby,97
+Charnwood,34
+Harborough,77
+Hinckley and Bosworth,55
+Melton,2
+North West Leicestershire,14
+Oadby and Wigston,36
+Boston,15
+East Lindsey,66
+Lincoln,92
+North East Lincolnshire,55
+North Kesteven,70
+South Holland,84
+South Kesteven,46
+West Lindsey,20
+Luton,19
+Manchester,40
+Medway,36
+Middlesbrough,75
+Milton Keynes,15
+Newcastle upon Tyne,49
+Breckland,42
+Broadland,55
+Great Yarmouth,17
+North Norfolk,73
+Norwich,14
+South Norfolk,31
+North Lincolnshire,83
+North Somerset,20
+North Tyneside,72
+Craven,28
+Hambleton,8
+Harrogate,31
+Richmondshire,86
+Ryedale,33
+Scarborough,11
+Selby,59
+Corby,74
+Daventry,63
+East Northamptonshire,63
+Kettering,6
+Northampton,76
+South Northamptonshire,86
+Wellingborough,36
+Northumberland,93
+Nottingham,81
+Ashfield,88
+Bassetlaw,42
+Broxtowe,3
+Gedling,92
+Mansfield,79
+Newark and Sherwood,1
+Rushcliffe,48
+Oldham,54
+Cherwell,28
+Oxford,44
+South Oxfordshire,71
+Vale of White Horse,94
+West Oxfordshire,7
+Peterborough,7
+Plymouth,14
+Poole,3
+Portsmouth,61
+Reading,84
+Redcar and Cleveland,6
+Rochdale,13
+Rotherham,76
+Rutland,14
+Saint Helens,69
+Salford,24
+Sandwell,20
+Liverpool,49
+Sefton,22
+Sheffield,48
+Shropshire,2
+Slough,9
+Solihull,97
+Mendip,72
+Sedgemoor,57
+South Somerset,93
+Taunton Deane,88
+West Somerset,60
+South Gloucestershire,88
+South Tyneside,55
+Southampton,24
+Southend-on-Sea,8
+Cannock Chase,14
+East Staffordshire,32
+Lichfield,6
+Newcastle-under-Lyme,51
+South Staffordshire,20
+Stafford,82
+Staffordshire Moorlands,15
+Tamworth,3
+Stockport,35
+Stockton-on-Tees,37
+Stoke-on-Trent,9
+Babergh,98
+Forest Heath,22
+Ipswich,42
+Mid Suffolk,14
+Saint Edmundsbury,69
+Suffolk coastal,19
+Waveney,53
+Sunderland,10
+Elmbridge,72
+Epsom and Ewell,30
+Guildford,39
+Mole Valley,77
+Reigate and Banstead,88
+Runnymede,75
+Spelthorne,13
+Surrey Heath,59
+Tandridge,98
+Waverley,10
+Woking,70
+Swindon,94
+Tameside,7
+Telford and Wrekin,22
+Thurrock,33
+Torbay,66
+Trafford,64
+Wakefield,24
+Walsall,94
+Warrington,7
+North Warwickshire,60
+Nuneaton and Bedworth,5
+Rugby,12
+Stratford-on-Avon,76
+Warwick,35
+West Berkshire,91
+Adur,57
+Arun,70
+Chichester,22
+Crawley,29
+Horsham,60
+Mid Sussex,4
+Worthing,74
+Wigan,66
+Wiltshire,46
+Windsor and Maidenhead,80
+Wirral,11
+Wokingham,48
+Wolverhampton,70
+Bromsgrove,11
+Malvern Hills,11
+Redditch,54
+Worcester,56
+Wychavon,32
+Wyre Forest,7
+York,11
+Antrim,58
+Newtownabbey,94
+Armagh,65
+Banbridge,43
+Craigavon,17
+Belfast,26
+Ballymoney,61
+Coleraine,40
+Limavady,80
+Moyle,48
+Derry,69
+Strabane,87
+Fermanagh,29
+Omagh,45
+Castlereagh,66
+Lisburn,4
+Ballymena,28
+Carrickfergus,80
+Larne,86
+Cookstown,46
+Dungannon,29
+Magherafelt,90
+Down,37
+Newry and Mourne,48
+Ards,77
+North Down,24
+Aberdeen,99
+Aberdeenshire,92
+Angus,69
+Argyll and Bute,49
+Clackmannanshire,75
+Dumfries and Galloway,14
+Dundee,99
+East Ayrshire,30
+East Dunbartonshire,43
+East Lothian,73
+East Renfrewshire,54
+Edinburgh,49
+Eilean Siar,21
+Falkirk,95
+Fife,78
+Glasgow,67
+Highland,13
+Inverclyde,53
+Midlothian,88
+Moray,27
+North Ayrshire,27
+North Lanarkshire,64
+Orkney Islands,73
+Perthshire and Kinross,16
+Renfrewshire,36
+Scottish Borders,14
+Shetland Islands,54
+South Ayrshire,45
+South Lanarkshire,82
+Stirling,66
+West Dunbartonshire,17
+West Lothian,90
+Anglesey,7
+Blaenau Gwent,33
+Bridgend,93
+Caerphilly,8
+Cardiff,84
+Carmarthenshire,5
+Ceredigion,77
+Conwy,8
+Denbighshire,49
+Flintshire,45
+Gwynedd,41
+Merthyr Tydfil,88
+Monmouthshire,53
+Neath Port Talbot,5
+Newport,16
+Pembrokeshire,59
+Powys,27
+Swansea,51
+Torfaen,30
+Vale of Glamorgan,81
+Wrexham,96
