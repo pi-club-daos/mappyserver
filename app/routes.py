@@ -73,7 +73,7 @@ def get_map(datehour):
 		columns=['district', 'reading'],
 		key_on='feature.properties.NAME',
 		fill_color='YlOrRd',
-		threshold_scale=[0, .1, .2, .3, .4, .5, .6, .7,1],
+		threshold_scale=[0, .1, .2, .3, .4, .5, .6, .7,10],
 		fill_opacity=0.4,
 		line_opacity=1,
 		legend_name='Unemployment Rate (%)'
