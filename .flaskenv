@@ -1,1 +1,1 @@
-FLASK_APP=smellyserver.py
+FLASK_APP=mappyserver.py

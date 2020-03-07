@@ -1,4 +1,4 @@
-# smello-vision
+# mappyserver
 rasp pi air sensor
 
 examples of curl to upload files

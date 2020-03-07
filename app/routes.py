@@ -122,11 +122,11 @@ def processData(datarecvd):
 	for i in data:
 		print(i)
 		# get the data and time parts out of the string
-		date = i[2][:10]
-		time = i[2][-8:]
+		date = i[0][:10]
+		time = i[0][-8:]
 		print('date %s time %s' % (date,time))
 		# form a single data row
-		datafile = ReadingFile( date = date, hour = time[:2] , minutes=time[3:5], seconds=time[-2:],district = i[1] , reading = float(i[0]))
+		datafile = ReadingFile( date = date, hour = time[:2] , minutes=time[3:5], seconds=time[-2:],district = i[1] , reading = float(i[4]))
 		print(datafile)
 		# merge into the db, note exitsing line will be overwritten
 		db.session.merge(datafile)
