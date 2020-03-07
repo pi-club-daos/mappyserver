@@ -1,1 +1,1 @@
-web: gunicorn smellyserver:app
+web: gunicorn mappyserver:app
